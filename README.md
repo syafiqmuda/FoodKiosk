@@ -1,5 +1,5 @@
-## FoodKiosk
-# Assingment 2
+# FoodKiosk
+## Assingment 2
 
-#Group Name
+# Group Name
 Mohammad Syafiq Bin Enchek Muda
