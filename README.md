@@ -1,5 +1,8 @@
 # FoodKiosk
 ## Assingment 2
 
-# Group Name
-Mohammad Syafiq Bin Enchek Muda
+## A. PROJECT SUMMARY
+
+**Smart Air Cooling:** Person/Moving Detection using Deep Learning
+
+**Team Members:** 
